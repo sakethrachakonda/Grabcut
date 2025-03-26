@@ -40,7 +40,7 @@ plt.axis("off")
 
 plt.show()
 
-
+#segmentation for same image
 import cv2
 import numpy as np
 
